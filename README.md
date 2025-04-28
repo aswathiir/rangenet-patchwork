@@ -1,13 +1,11 @@
-
 ---
 
-## Seamless integration of Rangenet and Patchwork 
---- 
+# 🚀 Seamless Integration of Patchwork++ and RangeNet++ with ROS 2 (Humble)
 
-```markdown
-# 🚀 Patchwork++ and RangeNet++ Integration with ROS 2 (Humble)
+This project showcases an advanced 3D LiDAR segmentation system, combining **Patchwork++** (for ground segmentation) and **RangeNet++** (for semantic segmentation) into a unified ROS 2 pipeline.  
+It enables real-time switching between different modes and includes a custom **discrepancy checker** for analyzing and highlighting mismatches between the two methods.
 
-This project showcases an advanced 3D LiDAR-based segmentation system, combining **Patchwork++** (ground segmentation) and **RangeNet++** (semantic segmentation) into a unified ROS 2 pipeline. It enables real-time switching between different modes and includes a custom **discrepancy checker** for analyzing mismatches between the two methods.
+> Developed on **Ubuntu 22.04** with **ROS 2 Humble**.
 
 ---
 
@@ -25,8 +23,6 @@ Follow the [official installation guide](https://docs.ros.org/en/humble/Installa
 mkdir -p ~/patchwork_ws/src
 cd ~/patchwork_ws
 ```
-
----
 
 ### 3. Clone Required Repositories
 
