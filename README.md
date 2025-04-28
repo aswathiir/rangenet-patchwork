@@ -1,17 +1,4 @@
 ## Seamless integration of Rangenet and Patchwork 
-
-- integrations
-- Full setup for users (with all necessary downloads)
-- How Patchwork++ and RangeNet++ were used
-- Use of KITTI bag files
-- Difference between Patchwork++ and RangeNet++
-- kNN post-processing note
-- Clear and professional writing
-
-Here’s your full detailed `README.md` draft:
-
----
-
 ```markdown
 # 🚀 Patchwork++ and RangeNet++ Integration with ROS 2 (Humble)
 
