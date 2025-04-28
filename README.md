@@ -80,20 +80,6 @@ postproc:
   knn: True
 ```
 
----
-Perfect — I'll give you **both**:
-
-1. A **simple clear diagram** for your README (so it looks professional)
-2. Instructions for **how to build the workspace using colcon** properly (added clearly at the right place in the README)
-
----
-
-### 📦 First, **"How to Build Using Colcon"** (full correct method)
-
-You can add this under your "Setup Instructions" section like this:
-
----
-
 ### 5. Build the Workspace
 
 ```bash
